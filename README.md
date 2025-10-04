@@ -1,3 +1,3 @@
 # Git Practice
 
-Giới thiệu: Tôilà <ChungThanhDat>, MSSV <224210>.
+Giới thiệu: <ChungThanhDat>, MSSV <224210>.
